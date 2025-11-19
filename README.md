@@ -1,9 +1,4 @@
-<div id="header" align="center">
-  <h1>
-    Hi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-    my name is Jonathan
-</h1>
+![Header](./Images/github-header-banner.png)
   
 </div>
 <p align="center">
