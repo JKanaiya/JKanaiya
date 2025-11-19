@@ -1,12 +1,25 @@
+<style>
+.two-column-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin: 20px 0;
+}
+
+.column {
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  .two-column-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+</style>
+
+
 <div id="header" align="center">
-  <!-- <img src="https://media.giphy.com/media/X8cjSugfXBhnyTtgth/giphy.gif" -->
-  <!--      width="500"/> -->
-  <!-- <div id="badges"> -->
-  <!--   <a href="https://www.linkedin.com/in/dgrossberg/"> -->
-  <!--     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"     alt="LinkedIn Badge"/> -->
-  <!--   </a> -->
-  <!-- </div> -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=dwgrossberg&style=flat-square&color=blue" alt=""/> -->
   <h1>
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
@@ -33,27 +46,6 @@
 
   </div>
 </div>
-
-<style>
-.two-column-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 30px;
-  margin: 20px 0;
-}
-
-.column {
-  padding: 0;
-}
-
-@media (max-width: 768px) {
-  .two-column-grid {
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
-}
-</style>
-
 
 
 
