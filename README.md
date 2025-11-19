@@ -16,7 +16,7 @@
 </p>
 
 ## Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JKanaiya&repo=BlogAPI)](https://github.com/JKanaiya/BlogAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JKanaiya&repo=BlogAPI&show_owner=true&theme=one_dark)](https://github.com/JKanaiya/BlogAPI)
 
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <!-- <img align="center" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="800px"/>  -->
