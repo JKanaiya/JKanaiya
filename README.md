@@ -17,7 +17,8 @@
 
 ## Currently Working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JKanaiya&repo=BlogAPI&show_owner=true&theme=rose_pine)](https://github.com/JKanaiya/BlogAPI)
-[![JKanaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKanaiya&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![JKanaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKanaiya&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats) -->
 
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <!-- <img align="center" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="800px"/>  -->
