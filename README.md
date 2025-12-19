@@ -16,7 +16,7 @@
 </p>
 
 ## Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JKanaiya&repo=BlogAPI&show_owner=true&theme=rose_pine)](https://github.com/JKanaiya/BlogAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JKanaiya&repo=BlogAPI&show_owner=true&theme=rose_pine)](https://github.com/JKanaiya/WhereisWaldoFrontend)
 
 <!-- [![JKanaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKanaiya&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats) -->
 
