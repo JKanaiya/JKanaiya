@@ -18,7 +18,8 @@
 ## Currently Working on
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JKanaiya&repo=MessagingAPI&show_owner=true&theme=rose_pine)](https://github.com/JKanaiya/MessagingAPI)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JKanaiya&layout=compact&langs_count=6&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=JKanaiya&layout=compact&langs_count=6&theme=calm_pink)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JKanaiya&layout=compact&langs_count=6&theme=rose_pine)](https://github-stats-extended.vercel.app/api/top-langs?username=JKanaiya&layout=compact&langs_count=6&theme=rose_pine)
+
 <!-- [![JKanaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKanaiya&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats) -->
 
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
