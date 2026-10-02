@@ -19,8 +19,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JKanaiya&layout=compact&langs_count=6&theme=rose_pine)](https://github-stats-extended.vercel.app/api/top-langs?username=JKanaiya&layout=compact&langs_count=6&theme=rose_pine)
 
 
----
-
 ## Currently Working on
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JKanaiya&repo=MessagingAPI&show_owner=true&theme=rose_pine)](https://github.com/JKanaiya/MessagingAPI)
 
