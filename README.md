@@ -16,7 +16,7 @@
 </p>
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JKanaiya&layout=compact&langs_count=6&theme=rose_pine)](https://github-stats-extended.vercel.app/api/top-langs?username=JKanaiya&layout=compact&langs_count=6&theme=rose_pine)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JKanaiya&layout=compact&langs_count=6&theme=rose_pine&hide=shell)](https://github-stats-extended.vercel.app/api/top-langs?username=JKanaiya&layout=compact&langs_count=6&theme=rose_pine)
 
 
 ## Currently Working on
